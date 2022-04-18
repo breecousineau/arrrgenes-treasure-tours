@@ -57,7 +57,7 @@ body {
 }
 
 nav a:focus {
-  color: 2px solid #fff;
+  color: 2px solid;
 }
 
 .hover nav {
